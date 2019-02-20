@@ -1,0 +1,14 @@
+{
+  "Item": {
+    "Studentname": "Math",
+    "StudentId": 7612580530,
+    "Major": "计算机科学与技术",
+    "Email": "123456@qq.com",
+    "Phone": "123456789",
+    "TwoMajor": "项目管理工程",
+    "School": "春江花花幼儿园",
+    "Birth": "20190220",
+    "Nation": "阿拉伯族",
+    "Province": "西周"
+  }
+}

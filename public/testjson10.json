@@ -1,0 +1,17 @@
+{
+  "Item": [{
+    "Team": "1",
+    "Year": "2016-2017",
+    "Coursename": "Math",
+    "Id": 12586486324,
+    "Teachername": "Major",
+    "Credit": "3.0"
+  },{
+    "Team": "2",
+    "Year": "2016-2017",
+    "Coursename": "Math",
+    "Id": 12586486324,
+    "Teachername": "Major",
+    "Credit": "3.0"
+  }]
+}

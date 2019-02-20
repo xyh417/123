@@ -1,0 +1,10 @@
+{
+	"Item": [{
+		"Coursename": "Math",
+		"CourseId": 1,
+		"CourseNature": "necessary",
+		"CourseGroup": "1",
+		"CourseCredit": 3.0,
+		"CourseIntroduce": "normal"
+	}]
+}

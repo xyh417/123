@@ -1,0 +1,353 @@
+.nav {
+    width:100%;
+    z-index: 500;
+    position: relative;
+    float:left;
+}
+*html nav{
+    float:left;/*sll20081120*/
+}
+.nav li.top {
+    display: block;
+    float: left;
+}
+.nav li a.top_link {
+    display: block;
+    float: left;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.nav li a.top_link span {
+    float: left;
+    display: block;
+}
+
+.nav li a.top_link span.down {
+    float: left;
+    display: block;
+}
+.nav table {
+    border-collapse: collapse;
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* Default link styling */
+/* Style the list OR link hover. Depends on which browser is used */
+.nav a:hover {
+    visibility: visible;
+    position: relative;
+    z-index: 200;
+    cursor:pointer
+}
+
+.nav li:hover {
+    position: relative;
+    z-index: 200;
+}
+
+/* keep the 'next' level invisible by placing it off screen. */
+.nav ul,
+.nav :hover ul ul,
+.nav :hover ul :hover ul ul,
+.nav :hover ul :hover ul :hover ul ul,
+.nav :hover ul :hover ul :hover ul :hover ul ul {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+    width: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav :hover ul.sub {
+    white-space: nowrap;
+    height: auto;
+    z-index: 300;
+    left: 0;
+    width: 120px;
+}
+.nav :hover ul.sub li {
+    display: block;
+    position: relative;
+    float: left;
+    font-weight: normal;
+    text-align:left;
+    width: 120px;
+}
+
+.nav :hover ul.sub li a {
+    display: block;
+    text-decoration: none;
+}
+.nav ul:hover ul,
+.nav ul:hover ul :hover ul,
+.nav ul:hover ul :hover ul :hover ul,
+.nav ul:hover ul :hover ul :hover ul :hover ul {
+    white-space: nowrap;
+    height: auto;
+    left: 120px;
+    z-index: 400;
+    width: 120px;
+}
+
+.nav .sub_cjlr {
+    width: 480px!important;
+}
+.nav ul.sub_cjlr li {
+    width: 480px!important;
+}
+
+.nav .navbug{
+    position:absolute;
+    visibility:inherit;
+    top:0px;
+    left:0px;               /* =====FGW2008-03-08加入===== */
+    width:128px;
+    height:500px;
+    z-index:-999;
+    filter: Alpha(Opacity=0);
+}
+/*========主导航====简单型===========*/
+.nav_simp{
+    width:100%;
+    float:left;
+}
+.nav_simp li{
+    float:left;
+}
+/*===================左边树形航样式====================*/
+.nav_leftsub{
+    float:left;
+    width:142px;
+    height:100%;
+}
+.nav_leftsub li a{
+    display:block;;
+    text-align:left;
+}
+.nav_leftsub ul a{
+    background: none;
+    border:0;
+}
+.nav_leftsub .sub {
+    display: none;
+}
+.nav {
+    height: 25px;
+    background: #C7DEFC url(../../images/nav_bg.gif) repeat-x left top;
+}
+.nav li a.top_link {
+    height: 25px;
+    line-height: 25px;
+    color: #3F6FC3;
+    padding: 0 0 0 5px;
+    background: url(../../images/nav_lige.gif) no-repeat right bottom;
+}
+
+.nav li a.top_link span {
+    padding: 0 24px 0 12px;
+    height: 25px;
+}
+
+.nav li a.top_link span.down {
+    padding: 0 24px 0 12px;
+    height: 25px;
+    background: url(../../images/nav_bg_down.gif) no-repeat right top;
+}
+
+.nav li a.top_link:hover {
+    color: #11449E;
+    background: url(../../images/nav_lilefthover.gif) no-repeat;
+}
+/*
+.nav li a.top_link:hover span {
+    background: url(./images/nav_lirighthover.gif) no-repeat right top;
+}*/
+
+.nav li a.top_link:hover span.down {
+    background: url(../../images/nav_lirighthover_down.gif) no-repeat right top;
+}
+
+.nav li:hover > a.top_link {
+    color: #11449E;
+    background: url(../../images/nav_lilefthover.gif) no-repeat;
+}
+/*
+.nav li:hover > a.top_link span {
+    background: url(./images/nav_lirighthover.gif) no-repeat right top;
+}
+*/
+.nav li:hover > a.top_link span.down {
+    background: url(../../images/nav_lirighthover_down.gif) no-repeat right top;
+}
+.nav :hover ul.sub {
+    top: 22px;
+    background: url(../../images/nav_sub_bg.png) repeat-y left top;/*IE7FF有效*/
+    padding: 3px;
+    border: 1px solid #3a93d2;
+
+}
+
+.nav :hover ul.sub li {
+    height: 20px;
+}
+
+.nav :hover ul.sub li a {
+    height: 20px;
+    line-height: 20px;
+    text-indent: 15px;
+    color: #11449E;
+}
+/*
+.nav :hover ul.sub li a.fly {
+    background: url(./images/nav_arrow.gif) 80px 7px no-repeat;
+}
+
+.nav :hover ul.sub li a:hover {
+    background: #3a93d2;
+    color: #fff;
+}
+
+.nav :hover ul.sub li a.fly:hover {
+    background: #3a93d2 url(./images/nav_arrow_over.gif) 80px 7px no-repeat;
+    color: #fff;
+}
+
+.nav :hover ul li:hover > a.fly {
+    background: #3a93d2 url(./images/nav_arrow_over.gif) 80px 7px no-repeat;
+    color: #fff;
+}
+*/
+.nav :hover ul :hover ul,
+.nav :hover ul :hover ul :hover ul,
+.nav :hover ul :hover ul :hover ul :hover ul,
+.nav :hover ul :hover ul :hover ul :hover ul :hover ul {
+    top: -3px;
+
+    background:url(../../images/nav_sub_bg.png) repeat-y left top;/*IE7FF有效*/
+    padding: 3px;
+    border: 1px solid #3a93d2;
+}
+/*========主导航====简单型===========*//*
+.nav_simp{
+    height: 29px;
+    background: #C7DEFC url(./images/nav_simp_bg.gif) repeat-x left top;
+}
+.nav_simp li{
+    line-height:29px;
+    background: url(./images/nav_lige2.gif) no-repeat right top;
+}*/
+.nav_simp li a{
+    color:#002B8D;
+    padding:7px 10px 5px 0px;
+    *padding:0px 10px 5px 0px;
+}
+.nav_simp li a span{
+    color:#002B8D;
+    padding:7px 3px 5px 17px;
+    *padding:9px 0 5px 17px;
+}/*
+.nav_simp li a:hover{
+    background: url(./images/nav_simp_current.gif) no-repeat right top;
+    padding:7px 10px 5px 0px;
+    *padding:0px 10px 5px 0px;
+    color:#fff;
+}
+.nav_simp li a:hover span{
+    background: url(./images/nav_simp_current.gif) no-repeat left top;
+    padding:7px 3px 5px 17px;
+    *padding:9px 0 5px 17px;
+    color:#fff;
+}
+.nav_simp li.current a{
+    background: url(./images/nav_simp_current.gif) no-repeat right top;
+    padding:7px 10px 5px 0px;
+    *padding:0px 10px 5px 0px;
+    color:#fff;
+}
+.nav_simp li.current a span{
+    background: url(./images/nav_simp_current.gif) no-repeat left top;
+    padding:7px 3px 5px 17px;
+    *padding:9px 0 5px 17px;
+    color:#fff;
+}*/
+.nav_simp .popnav_open a:hover{
+    background:none;
+}
+.nav_simp .popnav_open a:hover span{
+    background:none;
+    color:#002B8D;
+}
+.nav_simp .popnav_open ul a,.nav_simp .popnav_open ul a span,.nav_simp .popnav_open ul a:hover,.nav_simp .popnav_open ul a:hover span{
+    padding:0;
+    *padding:0;
+}
+.nav_simp .popnav_close ul{
+    display:none
+}
+.nav_simp .popnav_open{
+    position:relative;
+    z-index:999
+}
+.nav_simp .popnav_open ul{
+    border:1px solid #8BB8D5;
+    background:url(../../images/nav_sub_bg.png) repeat-y left top;
+    position:absolute;
+    left:10px;
+    top:22px;
+    padding:3px;
+}
+.nav_simp .popnav_open ul li{
+    background:none;
+    text-indent:12px;
+}
+.nav_simp .popnav_open ul a{
+    color:#807668;
+    display:block;
+    width:100px;
+    line-height:20px;
+    text-decoration: none;
+}
+.nav_simp .popnav_open ul a:hover{
+    background:#2358AE;
+}
+.nav_simp .popnav_open ul a:hover span{
+    color:#FFF;
+}
+/*===================左边树形航样式====================*/
+.nav_leftsub{
+    border:1px solid #A8BBD6;
+    margin:5px 0 0 2px;
+}/*
+.nav_leftsub li a.toplink{
+    background: url(./images/left_nav_bg.gif) no-repeat right top;
+    height:22px;
+    line-height:22px;
+    width:100%;
+    border-bottom:1px solid #A8BBD6;
+    text-indent:1.5em;
+    font-weight:bold;
+}*/
+.nav_leftsub li a.toplink span{
+    color: #11449E;
+}
+.nav_leftsub ul .current a{
+    background:#ADC8EA;
+}
+.nav_leftsub ul a{
+    text-indent:2em;
+    background:#F0F6FE;
+    border-bottom:1px solid #8CADD7;
+    font-weight:normal;
+    color: #11449E;
+}
+.nav_leftsub ul a:hover{;
+    background:#ADC8EA;
+}

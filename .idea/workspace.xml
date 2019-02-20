@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/page/d1/paged1.js" line="110" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6a3b569-4a9a-47b6-bace-6e20a78493c9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/page/d11/paged11.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/reducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/d11/store/reducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/d11/store/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/testjson12.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/d11/store/actionCreators.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rightdiv</find>
+      <find>500</find>
+      <find>#rightDiv</find>
+      <find>Searchinput</find>
+      <find>inpu</find>
+      <find>A1</find>
+      <find>item.</find>
+      <find>Item</find>
+      <find>AllItem</find>
+      <find>AllCourse</find>
+      <find>.p</find>
+      <find>Mainb</find>
+      <find>span</find>
+      <find>input</find>
+      <find>Searchp</find>
+      <find>Tab</find>
+      <find>Tdspan</find>
+      <find>td</find>
+      <find>forml</find>
+      <find>Td</find>
+      <find>form</find>
+      <find>Tdsp</find>
+      <find>Forml</find>
+      <find>searchi</find>
+      <find>Searchinput1</find>
+      <find>Leg</find>
+      <find>Credit</find>
+      <find>inp</find>
+      <find>Inp</find>
+      <find>course</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>./images</replace>
+      <replace>&lt;Navspan className='&gt;</replace>
+      <replace>Nava</replace>
+      <replace>item.get(</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/page/a1/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/page/a1/pagea1.js" />
+        <option value="$PROJECT_DIR$/public/testjson.json" />
+        <option value="$PROJECT_DIR$/public/testjson1.json" />
+        <option value="$PROJECT_DIR$/public/testjson2.json" />
+        <option value="$PROJECT_DIR$/src/page/a2/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/public/testjson2a.json" />
+        <option value="$PROJECT_DIR$/src/page/b1/store/reducer.js" />
+        <option value="$PROJECT_DIR$/public/testjson3.json" />
+        <option value="$PROJECT_DIR$/src/page/b1/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/public/testjson4.json" />
+        <option value="$PROJECT_DIR$/src/page/b1/pageb1.js" />
+        <option value="$PROJECT_DIR$/src/page/c1/style.js" />
+        <option value="$PROJECT_DIR$/src/page/c1/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/page/c1/pagec1.js" />
+        <option value="$PROJECT_DIR$/src/page/c2/pagec2.js" />
+        <option value="$PROJECT_DIR$/public/testjson5a.json" />
+        <option value="$PROJECT_DIR$/src/common/header/header.js" />
+        <option value="$PROJECT_DIR$/src/page/a2/pagea2.js" />
+        <option value="$PROJECT_DIR$/public/testjson5.json" />
+        <option value="$PROJECT_DIR$/src/page/d1/paged1.js" />
+        <option value="$PROJECT_DIR$/public/testjson7.json" />
+        <option value="$PROJECT_DIR$/src/page/d4/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/page/d4/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/public/testjson8.json" />
+        <option value="$PROJECT_DIR$/src/page/a2/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/page/d5/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/page/d5/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/page/d5/paged5.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/page/d7/style.js" />
+        <option value="$PROJECT_DIR$/public/testjson9.json" />
+        <option value="$PROJECT_DIR$/src/page/d7/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/page/d7/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/page/d7/paged7.js" />
+        <option value="$PROJECT_DIR$/src/page/d8/paged8.js" />
+        <option value="$PROJECT_DIR$/src/page/d10/paged8.js" />
+        <option value="$PROJECT_DIR$/src/page/d10/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/page/d10/store/reducer.js" />
+        <option value="$PROJECT_DIR$/public/testjson10.json" />
+        <option value="$PROJECT_DIR$/src/page/d10/paged10.js" />
+        <option value="$PROJECT_DIR$/public/testjson11.json" />
+        <option value="$PROJECT_DIR$/src/page/d4/paged4.js" />
+        <option value="$PROJECT_DIR$/src/page/d9/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/page/d9/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/page/d9/paged9.js" />
+        <option value="$PROJECT_DIR$/public/testjson12.json" />
+        <option value="$PROJECT_DIR$/src/page/d11/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/page/d11/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/page/d11/paged11.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="a1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="a1" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="d9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="d11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="d11" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tests" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\sb\Desktop\my-app\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sb\Desktop\my-app\src\page\d11\store" />
+      <recent name="C:\Users\sb\Desktop\my-app\src\page" />
+      <recent name="C:\Users\sb\Desktop\my-app\src\page\d8\store" />
+      <recent name="C:\Users\sb\Desktop\my-app\src\page\d7\store" />
+      <recent name="C:\Users\sb\Desktop\my-app\src\page\d10\store" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sb\Desktop\my-app\src\page\d8" />
+      <recent name="C:\Users\sb\Desktop\my-app\src\images" />
+      <recent name="C:\Users\sb\Desktop\my-app\src\delete" />
+      <recent name="C:\Users\sb\Desktop\my-app\src\common\header" />
+      <recent name="C:\Users\sb\Desktop\my-app\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Unnamed" />
+      <item itemvalue="Node.js.index.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6a3b569-4a9a-47b6-bace-6e20a78493c9" name="Default Changelist" comment="" />
+      <created>1550136760814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550136760814</updated>
+      <workItem from="1550136772496" duration="1945000" />
+      <workItem from="1550275449491" duration="19422000" />
+      <workItem from="1550367563538" duration="2847000" />
+      <workItem from="1550400425307" duration="2382000" />
+      <workItem from="1550403504972" duration="27181000" />
+      <workItem from="1550462373921" duration="36706000" />
+      <workItem from="1550541866663" duration="22777000" />
+      <workItem from="1550582507673" duration="5238000" />
+      <workItem from="1550623929059" duration="37176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="155674000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18377976" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/page/a2/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson5a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d1/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson5.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d1/paged1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="56" column="162" selection-start-line="56" selection-start-column="162" selection-end-line="56" selection-end-column="162" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/a2/pagea2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d4/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson7.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/a2/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d5/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d5/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/a2/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="73" selection-start-line="73" selection-end-line="85" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson8.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d5/paged5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d7/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d5/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/c1/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d7/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/c1/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d7/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d7/paged7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="76" column="94" selection-start-line="76" selection-start-column="94" selection-end-line="76" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d8/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d10/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d8/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d10/store/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson10.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d10/paged10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="62" column="111" selection-start-line="62" selection-start-column="111" selection-end-line="62" selection-end-column="111" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson2a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson9.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d8/paged8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d10/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d4/paged4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="24" column="84" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d4/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d9/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d9/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson11.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d11/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d9/paged9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="58" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/a1/pagea1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="86" column="28" lean-forward="true" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testjson12.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d11/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d11/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d11/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/d11/paged11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

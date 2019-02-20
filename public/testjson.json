@@ -1,0 +1,17 @@
+{
+	"Item": [{
+		"Coursename": "Math",
+		"CourseId": 1,
+		"CourseNature": "通识-创新创业类课程",
+		"CourseGroup": "1",
+		"CourseCredit": 3.0,
+		"CourseIntroduce": "normal"
+	},{
+		"Coursename": "Math",
+		"CourseId": 2,
+		"CourseNature": "通识-人文素养类课程",
+		"CourseGroup": "1",
+		"CourseCredit": 3.0,
+		"CourseIntroduce": "normal"
+	}]
+}
